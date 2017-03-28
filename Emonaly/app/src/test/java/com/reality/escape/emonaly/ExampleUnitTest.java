@@ -1,4 +1,4 @@
-package com.escapereality.emonaly;
+package com.reality.escape.emonaly;
 
 import org.junit.Test;
 

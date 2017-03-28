@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "971169241335",
+    "firebase_url": "https://emonaly-28fa8.firebaseio.com",
+    "project_id": "emonaly-28fa8",
+    "storage_bucket": "emonaly-28fa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971169241335:android:76f583305f07ce24",
+        "android_client_info": {
+          "package_name": "com.reality.escape.emonaly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971169241335-iklt5a3upd3tr7m5n0ea1e6j0rl0nhvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reality.escape.emonaly",
+            "certificate_hash": "ceef83f7e03e7f29c871ed67fd18a8fc9212b62d"
+          }
+        },
+        {
+          "client_id": "971169241335-7n0rvi0ojo555sn1m8dso3bs6q2rvqjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeraw-l5Kc9pj1xJMGzfb52sJfzy3xse4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971169241335-7n0rvi0ojo555sn1m8dso3bs6q2rvqjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

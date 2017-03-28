@@ -1,4 +1,4 @@
-package com.escapereality.emonaly;
+package com.reality.escape.emonaly;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.escapereality.emonaly", appContext.getPackageName());
+        assertEquals("com.reality.escape.emonaly", appContext.getPackageName());
     }
 }
